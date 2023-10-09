@@ -1,0 +1,58 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "My First Post",
+      "date": "October 09, 2023 6:07:28 PM",
+      "body": "Making a application in react successfully",
+      "status": "InProgress"
+    },
+    {
+      "id": 2,
+      "title": "My Second Postssssssssssss",
+      "date": "Oct 04, 2023 5:06:30 PM",
+      "body": "Making a application in react successfully",
+      "status": "ToDo"
+    },
+    {
+      "id": 4,
+      "title": "My fourth Postsssss",
+      "date": "October 09, 2023 6:05:43 PM",
+      "body": "Making a application in react successfully",
+      "status": "ToDo"
+    },
+    {
+      "id": 5,
+      "title": "Congrats You completed",
+      "date": "October 09, 2023 2:32:44 PM",
+      "body": "Congrats You completed!!!!!!!!!!!!!"
+    },
+    {
+      "id": 6,
+      "title": "Sample application completed",
+      "date": "Oct 05, 2023 6:12:18 PM",
+      "body": "Ayiiaaa completed ",
+      "status": "Done"
+    },
+    {
+      "id": 7,
+      "title": "Congrats You React Course!!",
+      "date": "October 09, 2023 5:57:20 PM",
+      "body": "learn better",
+      "status": "Done"
+    },
+    {
+      "id": 8,
+      "title": "test",
+      "date": "October 09, 2023 5:54:25 PM",
+      "body": "test"
+    },
+    {
+      "id": 10,
+      "title": "Sixth",
+      "date": "October 09, 2023 5:48:32 PM",
+      "body": "test",
+      "status": "Done"
+    }
+  ]
+}
